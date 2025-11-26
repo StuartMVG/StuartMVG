@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building better ecom sites<br>🌱 I’m currently learning Shopify Functions<br>💬 Ask me about cats or plants
+🔭 I’m currently working on building value driven AI tools<br>🌱 I’m currently learning LLM database querying and memory management<br>💬 Ask me about cats or plants
 
 
 ## 🌐 Socials:

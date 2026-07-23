@@ -1,17 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on building value driven AI tools<br>🌱 I’m currently learning LLM database querying and memory management<br>💬 Ask me about cats or plants
+# Stuart Gardner
 
+**Forward Deployed AI Engineer · Senior Software Engineer @ [Digital Fuel Capital](https://digitalfuelcapital.com)**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stuartmvgardner) 
+I'm the engineer a private equity firm deploys into its portfolio companies when technology is the bottleneck. I embed with eCommerce brands — finance, marketing, logistics, ops — and ship AI systems they actually adopt. Working software, measured in recovered dollars and reclaimed hours.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StuartMVG&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=StuartMVG&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StuartMVG&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+### What I'm building
 
+- **AI transformation programs** — led a six-month AI-native program at a portfolio company: ~$200K recovered in carrier overcharges, 1.5–2 FTEs of capacity returned through workflow automation
+- **Internal platforms** — a BI platform for the portfolio (Redshift-backed analytics, a 35+ category eCommerce vendor library), a CRO testing tool, and a multi-model AI product-image pipeline with an LLM QA reviewer
+- **Serverless infrastructure** — AWS document-processing pipelines (SES → S3 → Lambda) with LLM-based classification, IAM Identity Center, the unglamorous plumbing that makes the rest possible
 
+### Currently learning
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+LLM memory management and database querying patterns — how agents should remember, retrieve, and reason over structured data.
+
+> 🔒 Most of my work lives in private portfolio-company repos, so the green squares only tell part of the story. The public story is on [LinkedIn](https://linkedin.com/in/stuartmvgardner).
+
+### Stack
+
+`Claude & agentic AI` · `Python` · `TypeScript` · `React / Next.js` · `Node.js` · `Shopify (Hydrogen · Liquid · Functions)` · `AWS (Lambda · SES · S3 · DynamoDB)` · `Redshift` · `BigQuery` · `GA4 / GTM` · `Cloudflare Workers`
+
+---
+
+💬 Ask me about cats or plants.
